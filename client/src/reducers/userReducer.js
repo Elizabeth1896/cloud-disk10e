@@ -1,3 +1,4 @@
+
 const defaultState = {
     currentUser: {},
     isAuth: false
