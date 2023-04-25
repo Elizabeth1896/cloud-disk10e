@@ -1,6 +1,6 @@
 {
   "serverPort" : 5000,
-  "dbUrl": "mongodb+srv://aaasssddhhkk:Nesra7002r@cluster0.61pazia.mongodb.net/?retryWrites=true&w=majority",
+  "dbUrl": "mongodb+srv://Liza:<Liza2006>@cluster0.xjgcdhf.mongodb.net/test",
   "secretKey": "mern-secket-key",
   "filePath": "D:\\it\\cloud-disk-main\\server\\files"
 }
