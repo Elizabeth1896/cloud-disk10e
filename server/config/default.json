@@ -1,6 +1,8 @@
 {
-  "serverPort" : 5000,
-  "dbUrl": "mongodb+srv://Liza:<Liza2006>@cluster0.xjgcdhf.mongodb.net/test",
-  "secretKey": "mern-secket-key",
-  "filePath": "D:\\it\\cloud-disk-main\\server\\files"
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://DameliAmangeldiyeva:07dudec01@cluster0.wunjk7r.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "mern-secret-key",
+  "filePath": "C:\\Users\\Пользователь\\Desktop\\cloud-disk-10e\\server\\files"
 }
+
+
